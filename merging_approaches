@@ -1,9 +1,0 @@
-# Merge Approaches in Git
-
-## Table of Contents
-- [Merge Approaches in Git](#merge-approaches-in-git)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-
-# Overview 
-Merging in git allows multiple contributors to work on different branches of the same project, which helps to maintain an organized and independent development flow. Each branch is focused on a different aspect of the project, and eventually they will be combined to form the final form of the whole project. 
